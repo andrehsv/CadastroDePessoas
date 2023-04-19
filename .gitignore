@@ -25,5 +25,3 @@ replay_pid*
 .classpath
 .project
 *.prefs
-.gitignore
-.gitattributes
